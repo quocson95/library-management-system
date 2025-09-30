@@ -15,5 +15,5 @@ set(SOURCES
     src/sinhvien.cpp
 )
 
-# Tạo executable
-add_executable(library.exe ${SOURCES})
+# create executable
+add_executable(library ${SOURCES})
